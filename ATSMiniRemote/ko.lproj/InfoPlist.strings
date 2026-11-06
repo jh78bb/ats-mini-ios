@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "ATS Mini Remote";
+"NSBluetoothAlwaysUsageDescription" = "ATS Mini 수신기를 찾아 블루투스로 연결하고 제어하기 위해 사용합니다.";
+"NSLocalNetworkUsageDescription" = "ATS Mini 수신기를 찾아 Wi-Fi로 연결하기 위해 사용합니다.";

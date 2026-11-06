@@ -1,0 +1,1736 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ connected" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 연결됨"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld dBm" : {
+
+    },
+    "%lld kHz" : {
+
+    },
+    "60000" : {
+
+    },
+    "A band is a slice of the radio spectrum. The dial only moves inside the selected band, so pick the band first, then tune. Pick one from the list and the app steps the receiver there for you. A quiet band is not broken; it just has nothing on the air right now." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "밴드는 전파의 한 구간입니다. 다이얼은 선택한 밴드 안에서만 움직이므로 밴드를 먼저 고른 뒤 주파수를 맞추세요. 목록에서 고르면 앱이 수신기를 그 밴드로 넘겨 줍니다. 조용한 밴드는 고장이 아니라 지금 방송이 없는 것입니다."
+          }
+        }
+      }
+    },
+    "A good balance for most places." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대부분의 장소에 알맞은 균형입니다."
+          }
+        }
+      }
+    },
+    "A technical view for troubleshooting: the commands the app sent (→) and the lines the receiver sent back (←). Copy it when you report a problem." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제를 찾을 때 쓰는 기술 화면입니다. 앱이 보낸 명령(→)과 수신기가 돌려준 줄(←)을 보여줍니다. 문제를 알릴 때 복사해서 보내세요."
+          }
+        }
+      }
+    },
+    "A wide slice above medium wave: amateur 160 m, marine and other utility stations (AM)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중파 위쪽의 넓은 구간. 아마추어 160 m, 선박 등 각종 업무용 방송(AM)이 있습니다."
+          }
+        }
+      }
+    },
+    "About bands" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "밴드란?"
+          }
+        }
+      }
+    },
+    "About memory slots" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모리 슬롯이란?"
+          }
+        }
+      }
+    },
+    "About modes" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모드란?"
+          }
+        }
+      }
+    },
+    "About reception settings" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신 설정이란?"
+          }
+        }
+      }
+    },
+    "About seek and scan" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색과 스캔이란?"
+          }
+        }
+      }
+    },
+    "About sleep" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬립이란?"
+          }
+        }
+      }
+    },
+    "About the communication log" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "통신 로그란?"
+          }
+        }
+      }
+    },
+    "About the receiver encoder" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기 엔코더란?"
+          }
+        }
+      }
+    },
+    "About tuning step" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "튜닝 스텝이란?"
+          }
+        }
+      }
+    },
+    "About volume" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "볼륨"
+          }
+        }
+      }
+    },
+    "Advanced" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고급 설정"
+          }
+        }
+      }
+    },
+    "Advanced settings" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고급 설정"
+          }
+        }
+      }
+    },
+    "AGC / Attenuator" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AGC / 감쇠기"
+          }
+        }
+      }
+    },
+    "All 99 memory slots are in use." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모리 슬롯 99개가 모두 사용 중입니다."
+          }
+        }
+      }
+    },
+    "Allow Bluetooth in Settings" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정에서 블루투스 허용"
+          }
+        }
+      }
+    },
+    "Also stops at faint stations and sometimes at noise." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "희미한 방송국에서도 멈추지만 잡음에서 멈추기도 합니다."
+          }
+        }
+      }
+    },
+    "Amateur radio 10 m. Opens in high solar activity; voice in upper sideband (USB)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 10 m. 태양 활동이 높을 때 열리며 상측파대(USB) 음성."
+          }
+        }
+      }
+    },
+    "Amateur radio 12 m. Daytime long-distance (DX) when solar activity is good, upper sideband (USB)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 12 m. 태양 활동이 좋을 때 낮 장거리 교신, 상측파대(USB)."
+          }
+        }
+      }
+    },
+    "Amateur radio 15 m. Daytime long-distance (DX) in upper sideband (USB)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 15 m. 낮 시간대 장거리 교신, 상측파대(USB)."
+          }
+        }
+      }
+    },
+    "Amateur radio 17 m. Quieter long-distance (DX) band in upper sideband (USB)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 17 m. 비교적 한적한 장거리 교신 대역, 상측파대(USB)."
+          }
+        }
+      }
+    },
+    "Amateur radio 20 m. The classic long-distance (DX) band in upper sideband (USB), mostly daytime." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 20 m. 상측파대(USB)로 먼 곳과 교신하는 대표 대역, 주로 낮."
+          }
+        }
+      }
+    },
+    "Amateur radio 30 m. Mostly Morse code and digital modes, lower sideband (LSB)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 30 m. 주로 모스 부호와 디지털 모드, 하측파대(LSB)."
+          }
+        }
+      }
+    },
+    "Amateur radio 40 m. Voice in lower sideband (LSB), active day and night." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 40 m. 하측파대(LSB) 음성, 낮과 밤 모두 활발합니다."
+          }
+        }
+      }
+    },
+    "Amateur radio 80 m. Voice in lower sideband (LSB), evening and night nets." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 80 m. 하측파대(LSB) 음성, 저녁과 밤 교신이 많습니다."
+          }
+        }
+      }
+    },
+    "Amateur radio 160 m. Voice and data in lower sideband (LSB), best at night." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아마추어 무선 160 m. 하측파대(LSB) 음성·데이터, 밤에 좋습니다."
+          }
+        }
+      }
+    },
+    "Amplitude modulation, used by long-, medium- and shortwave broadcasts." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "진폭 변조. 장파·중파·단파 방송에 쓰입니다."
+          }
+        }
+      }
+    },
+    "ATS Mini Remote" : {
+
+    },
+    "atsmini.local" : {
+
+    },
+    "Automatic gain control keeps the volume steady as signals fade. The attenuator weakens very strong signals to avoid distortion." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AGC(자동 이득 조절)는 신호가 약해졌다 강해져도 소리 크기를 일정하게 유지합니다. 감쇠기는 아주 강한 신호를 약하게 해 찌그러짐을 막습니다."
+          }
+        }
+      }
+    },
+    "Band" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "밴드"
+          }
+        }
+      }
+    },
+    "BAND" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "밴드"
+          }
+        }
+      }
+    },
+    "Bands on this receiver" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 수신기의 밴드"
+          }
+        }
+      }
+    },
+    "Bandwidth" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대역폭"
+          }
+        }
+      }
+    },
+    "Bluetooth LE" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "블루투스 LE"
+          }
+        }
+      }
+    },
+    "Calibration" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보정"
+          }
+        }
+      }
+    },
+    "Citizens’ band around 27 MHz (25–28 MHz range). Short-range hobby and trade voice in AM." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "27 MHz 부근 시민 밴드(25–28 MHz 구간). 근거리 취미·업무 음성(AM)."
+          }
+        }
+      }
+    },
+    "Clear" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지우기"
+          }
+        }
+      }
+    },
+    "Clear log" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로그 지우기"
+          }
+        }
+      }
+    },
+    "Clear on receiver" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기에서 지우기"
+          }
+        }
+      }
+    },
+    "Clear this slot?" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬롯을 지울까요?"
+          }
+        }
+      }
+    },
+    "Click" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "클릭"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닫기"
+          }
+        }
+      }
+    },
+    "Communication log" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "통신 로그"
+          }
+        }
+      }
+    },
+    "Connect" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연결"
+          }
+        }
+      }
+    },
+    "Connect a receiver to seek." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색하려면 수신기에 연결하세요."
+          }
+        }
+      }
+    },
+    "Connect device" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기기 연결"
+          }
+        }
+      }
+    },
+    "Connect Device" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기기 연결"
+          }
+        }
+      }
+    },
+    "Connect to a receiver to use these controls." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기에 연결해야 사용할 수 있습니다."
+          }
+        }
+      }
+    },
+    "Connecting to %@…" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@에 연결 중…"
+          }
+        }
+      }
+    },
+    "Connecting…" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연결 중…"
+          }
+        }
+      }
+    },
+    "Controls" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "제어"
+          }
+        }
+      }
+    },
+    "Copy log" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로그 복사"
+          }
+        }
+      }
+    },
+    "Could not switch to band %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 밴드로 전환하지 못했습니다"
+          }
+        }
+      }
+    },
+    "Decrease" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "내리기"
+          }
+        }
+      }
+    },
+    "Disconnect" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연결 해제"
+          }
+        }
+      }
+    },
+    "Encoder left" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엔코더 왼쪽"
+          }
+        }
+      }
+    },
+    "Encoder right" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엔코더 오른쪽"
+          }
+        }
+      }
+    },
+    "Everything from long wave to shortwave (150 kHz–30 MHz) in one band. Tune anywhere with the dial." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "장파부터 단파까지(150 kHz–30 MHz) 한 밴드로 묶었습니다. 다이얼로 어디든 맞출 수 있습니다."
+          }
+        }
+      }
+    },
+    "Fine controls for how the receiver picks up a signal. Use − and + to step each one; the receiver keeps the actual value." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기가 신호를 받는 방식을 세밀하게 조절합니다. −와 +로 한 단계씩 바꾸며, 실제 값은 수신기가 보관합니다."
+          }
+        }
+      }
+    },
+    "Fine-tunes the frequency in single-sideband modes (LSB/USB) so voices sound natural instead of too high or too low." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "단측파대(LSB/USB)에서 주파수를 미세하게 보정해 목소리가 너무 높거나 낮지 않고 자연스럽게 들리게 합니다."
+          }
+        }
+      }
+    },
+    "FM broadcast band. Music and talk radio, usually 87.5–108 MHz." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FM 방송 대역. 음악·정보 라디오이며 보통 87.5–108 MHz를 씁니다."
+          }
+        }
+      }
+    },
+    "Frequency dial" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주파수 다이얼"
+          }
+        }
+      }
+    },
+    "Help" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
+          }
+        }
+      }
+    },
+    "Holding the knob for about half a second; some menu items use it." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "노브를 약 0.5초 누르고 있는 동작입니다. 일부 메뉴 항목에서 씁니다."
+          }
+        }
+      }
+    },
+    "Host" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "호스트"
+          }
+        }
+      }
+    },
+    "How far the dial and the ‹ › buttons move per step. This is the app’s own tuning step and is separate from the receiver’s step setting. Small steps tune finely; large steps move faster." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다이얼과 ‹ › 버튼이 한 번에 움직이는 간격입니다. 앱 자체의 튜닝 스텝이며 수신기의 스텝 설정과는 별개입니다. 작은 스텝은 세밀하게, 큰 스텝은 빠르게 움직입니다."
+          }
+        }
+      }
+    },
+    "How wide a slice of spectrum the receiver listens to. Narrow rejects neighbouring stations but sounds duller; wide sounds fuller but lets interference in." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기가 듣는 주파수 폭입니다. 좁으면 옆 방송의 간섭이 줄지만 소리가 둔하고, 넓으면 소리가 풍부하지만 간섭이 들어옵니다."
+          }
+        }
+      }
+    },
+    "Increase" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "올리기"
+          }
+        }
+      }
+    },
+    "LIVE" : {
+
+    },
+    "Looking for nearby receivers…" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주변 수신기를 찾는 중…"
+          }
+        }
+      }
+    },
+    "Lower sideband, a voice mode used by amateur radio below about 10 MHz. It needs fine tuning, otherwise voices sound like a duck." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "하측파대. 약 10 MHz 아래 아마추어 무선에서 쓰는 음성 방식입니다. 주파수를 미세하게 맞추지 않으면 목소리가 오리 소리처럼 들립니다."
+          }
+        }
+      }
+    },
+    "Medium wave (AM) broadcast band, 495–1701 kHz. Local and regional AM radio, best at night." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중파(AM) 방송 대역(495–1701 kHz). 지역 AM 라디오이며 밤에 더 멀리 들립니다."
+          }
+        }
+      }
+    },
+    "Memory slots" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모리 슬롯"
+          }
+        }
+      }
+    },
+    "Mode" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모드"
+          }
+        }
+      }
+    },
+    "MODE" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모드"
+          }
+        }
+      }
+    },
+    "Mute" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "음소거"
+          }
+        }
+      }
+    },
+    "Name (9 ASCII chars)" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이름 (영문 9자)"
+          }
+        }
+      }
+    },
+    "Nearby receivers" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주변 수신기"
+          }
+        }
+      }
+    },
+    "No memory slots on the receiver." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기에 저장된 메모리 슬롯이 없습니다."
+          }
+        }
+      }
+    },
+    "No presets yet. Tap Save to presets." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리셋이 없습니다. ‘프리셋에 저장’을 눌러 추가하세요."
+          }
+        }
+      }
+    },
+    "No slots loaded." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "불러온 슬롯이 없습니다."
+          }
+        }
+      }
+    },
+    "No station found." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "방송국을 찾지 못했습니다."
+          }
+        }
+      }
+    },
+    "Normal" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "보통"
+          }
+        }
+      }
+    },
+    "Not connected" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "연결 안 됨"
+          }
+        }
+      }
+    },
+    "Now tuning" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신 중"
+          }
+        }
+      }
+    },
+    "OFFLINE" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오프라인"
+          }
+        }
+      }
+    },
+    "On the ATS Mini, set Settings → Bluetooth → Ad hoc, then scan close to the receiver. If it is not listed, turn on “Show all BLE devices”." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ATS Mini에서 Settings → Bluetooth → Ad hoc을 켜고, 수신기 가까이에서 검색하세요. 목록에 없으면 ‘모든 BLE 기기 표시’를 켜 보세요."
+          }
+        }
+      }
+    },
+    "On the ATS Mini, set Settings → TCP Port → Ad hoc and turn on Wi-Fi, then connect to atsmini.local or the receiver’s IP address on port 60000. There is no authentication or encryption, so use trusted networks only. To try the app in the iOS Simulator, run tools/mock_ats_mini.py on your Mac and connect to 127.0.0.1." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ATS Mini에서 Settings → TCP Port → Ad hoc을 켜고 Wi-Fi를 켠 뒤, atsmini.local 또는 수신기의 IP 주소와 포트 60000으로 연결하세요. 인증과 암호화가 없으니 믿을 수 있는 네트워크에서만 쓰세요. iOS 시뮬레이터에서 앱을 시험하려면 Mac에서 tools/mock_ats_mini.py를 실행하고 127.0.0.1로 연결하세요."
+          }
+        }
+      }
+    },
+    "Only stops at strong stations. Fewer false stops, but weak stations are skipped." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강한 방송국에서만 멈춥니다. 잘못 멈추는 일이 적지만 약한 방송국은 건너뜁니다."
+          }
+        }
+      }
+    },
+    "Opens the volume slider" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "볼륨 슬라이더를 엽니다"
+          }
+        }
+      }
+    },
+    "Output level of the receiver’s speaker and headphones, from 0 to 63. 0 is mute. You can also tap the volume tile on the main screen." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기 스피커와 헤드폰의 출력 크기이며 0~63입니다. 0은 음소거입니다. 메인 화면의 볼륨 타일을 눌러도 조절할 수 있습니다."
+          }
+        }
+      }
+    },
+    "Port" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "포트"
+          }
+        }
+      }
+    },
+    "Press" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "길게 누름"
+          }
+        }
+      }
+    },
+    "Radio" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라디오"
+          }
+        }
+      }
+    },
+    "Radio remote control" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "라디오 리모컨"
+          }
+        }
+      }
+    },
+    "Read slots" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬롯 읽어오기"
+          }
+        }
+      }
+    },
+    "Reading memory slots… try again in a moment." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모리 슬롯을 읽는 중입니다. 잠시 후 다시 시도하세요."
+          }
+        }
+      }
+    },
+    "Receiver encoder" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기 엔코더"
+          }
+        }
+      }
+    },
+    "Reception" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신 설정"
+          }
+        }
+      }
+    },
+    "Remote control for the receiver’s rotary knob, so you can use its on-screen menus from the app." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기의 회전 노브를 원격으로 조작합니다. 수신기 화면의 메뉴를 앱에서 쓸 수 있습니다."
+          }
+        }
+      }
+    },
+    "Remove from presets" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리셋에서 삭제"
+          }
+        }
+      }
+    },
+    "Rotate left / right" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "왼쪽 / 오른쪽 돌리기"
+          }
+        }
+      }
+    },
+    "RSSI dBµV" : {
+
+    },
+    "Save current frequency" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현재 주파수 저장"
+          }
+        }
+      }
+    },
+    "Save to presets" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리셋에 저장"
+          }
+        }
+      }
+    },
+    "Saved to presets" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프리셋에 저장됨"
+          }
+        }
+      }
+    },
+    "Scan" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스캔"
+          }
+        }
+      }
+    },
+    "SCANNING" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스캔 중"
+          }
+        }
+      }
+    },
+    "SEEK" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색"
+          }
+        }
+      }
+    },
+    "Seek down" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아래로 탐색"
+          }
+        }
+      }
+    },
+    "Seek steps through the band one tuning step at a time and stops at the next station that is strong enough. Scan keeps doing that, pausing about 4 seconds on each station, until you stop it. The app reads the receiver’s signal strength (RSSI) and quality (SNR) at every step, which takes about a second, so a larger tuning step finds stations faster. FM covers 87.5–108 MHz." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색(Seek)은 튜닝 스텝만큼 한 칸씩 옮기며 신호가 충분히 강한 다음 방송국에서 멈춥니다. 스캔(Scan)은 이를 계속하면서 방송국마다 약 4초씩 머물고, 멈출 때까지 반복합니다. 앱이 매 스텝마다 수신기의 신호 세기(RSSI)와 품질(SNR)을 읽어 약 1초가 걸리므로, 튜닝 스텝을 크게 하면 더 빨리 찾습니다. FM은 87.5–108 MHz를 훑습니다."
+          }
+        }
+      }
+    },
+    "Seek stopped. The receiver did not follow the tuning." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색을 멈췄습니다. 수신기가 주파수를 따라오지 않았습니다."
+          }
+        }
+      }
+    },
+    "Seek up" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "위로 탐색"
+          }
+        }
+      }
+    },
+    "SEEKING" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색 중"
+          }
+        }
+      }
+    },
+    "Selects the highlighted menu item, like pressing the knob." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "노브를 누르듯 선택된 메뉴 항목을 고릅니다."
+          }
+        }
+      }
+    },
+    "Sensitivity" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "감도"
+          }
+        }
+      }
+    },
+    "Short press" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "길게 누름"
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 11 m. Usually quiet; opens only when solar activity is high." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "11 m 단파 방송 대역. 평소엔 조용하고 태양 활동이 높을 때만 열립니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 13 m. Daytime long-distance international stations." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "13 m 단파 방송 대역. 낮에 먼 곳의 국제방송이 들립니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 15 m. Daytime long-distance international stations." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "15 m 단파 방송 대역. 낮에 먼 곳의 국제방송이 들립니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 16 m. Daytime international broadcasts." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "16 m 단파 방송 대역. 낮 시간대 국제방송."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 19 m. A popular daytime and evening international band." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "19 m 단파 방송 대역. 낮과 저녁에 인기 있는 국제방송 대역."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 22 m. Daytime international broadcasts." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "22 m 단파 방송 대역. 낮 시간대 국제방송."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 25 m. Good from late morning into the evening." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "25 m 단파 방송 대역. 늦은 오전부터 저녁까지 잘 들립니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 31 m. One of the busiest bands, usable day and night." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "31 m 단파 방송 대역. 가장 붐비는 대역 중 하나로 밤낮으로 들립니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 41 m. Best in the evening and at night." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "41 m 단파 방송 대역. 저녁과 밤에 잘 들립니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 49 m. Popular for night-time regional and international stations." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "49 m 단파 방송 대역. 밤에 지역·국제방송이 많습니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 60 m (tropical band). Night-time, often regional stations." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "60 m 단파 방송 대역(열대 대역). 밤에 지역 방송이 많습니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 75 m. Night-time stations; shares space with amateur radio." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "75 m 단파 방송 대역. 밤에 들리며 아마추어 무선과 대역을 나눕니다."
+          }
+        }
+      }
+    },
+    "Shortwave broadcast, 90 m (tropical band). Night-time regional stations." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90 m 단파 방송 대역(열대 대역). 밤에 지역 방송이 들립니다."
+          }
+        }
+      }
+    },
+    "Show all BLE devices" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 BLE 기기 표시"
+          }
+        }
+      }
+    },
+    "Signal" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "신호"
+          }
+        }
+      }
+    },
+    "Sleep" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬립"
+          }
+        }
+      }
+    },
+    "Sleep on" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬립 켜기"
+          }
+        }
+      }
+    },
+    "Sleep puts the receiver to sleep to save battery (the screen turns off; in some sleep modes the radio stops too). Wake up turns it back on." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬립은 배터리를 아끼려고 수신기를 재웁니다(화면이 꺼지고, 슬립 방식에 따라 라디오도 멈춥니다). 깨우기를 누르면 다시 켜집니다."
+          }
+        }
+      }
+    },
+    "Slot %lld: %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬롯 %lld: %@"
+          }
+        }
+      }
+    },
+    "SNR dB" : {
+
+    },
+    "Station found: %@" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "방송국을 찾았습니다: %@"
+          }
+        }
+      }
+    },
+    "Status lines received" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "받은 상태 줄"
+          }
+        }
+      }
+    },
+    "Step" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스텝"
+          }
+        }
+      }
+    },
+    "STEP" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스텝"
+          }
+        }
+      }
+    },
+    "Stop" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "정지"
+          }
+        }
+      }
+    },
+    "Stop seeking" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "탐색 멈추기"
+          }
+        }
+      }
+    },
+    "Strong" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강"
+          }
+        }
+      }
+    },
+    "Switching band…" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "밴드 전환 중…"
+          }
+        }
+      }
+    },
+    "The mode is how the receiver decodes the signal. Use the one that matches the band: FM on the FM band, AM on broadcast bands, LSB or USB for amateur radio voice. The wrong mode sounds distorted or silent." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모드는 수신기가 신호를 해석하는 방식입니다. FM 밴드는 FM, 방송 밴드는 AM, 아마추어 무선 음성은 LSB 또는 USB처럼 밴드에 맞는 모드를 쓰세요. 맞지 않으면 소리가 찌그러지거나 들리지 않습니다."
+          }
+        }
+      }
+    },
+    "The receiver did not accept the new frequency. See Advanced → Communication log." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기가 새 주파수를 받아들이지 않았습니다. 고급 설정 → 통신 로그를 확인하세요."
+          }
+        }
+      }
+    },
+    "The receiver did not store the memory slot. See Advanced → Communication log." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기가 메모리 슬롯을 저장하지 않았습니다. 고급 설정 → 통신 로그를 확인하세요."
+          }
+        }
+      }
+    },
+    "The receiver stores up to 99 stations (band, frequency, mode and an optional name). While connected, these slots are the stations in the bottom bar and the heart button saves to them. Tap a slot to tune to it. Saving uses the first empty slot; clearing really empties the slot on the receiver." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수신기는 방송국을 최대 99개(밴드, 주파수, 모드, 선택 이름) 저장합니다. 연결 중에는 이 슬롯이 하단 스테이션 바가 되고 하트 버튼도 여기에 저장합니다. 슬롯을 누르면 그 주파수로 이동합니다. 저장은 비어 있는 첫 슬롯을 쓰고, 지우기는 수신기의 슬롯을 실제로 비웁니다."
+          }
+        }
+      }
+    },
+    "This device does not support Bluetooth LE." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 기기는 블루투스 LE를 지원하지 않습니다."
+          }
+        }
+      }
+    },
+    "Tune down" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주파수 내리기"
+          }
+        }
+      }
+    },
+    "Tune up" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주파수 올리기"
+          }
+        }
+      }
+    },
+    "Tunes the frequency or moves through the menu on the receiver’s screen." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "주파수를 맞추거나 수신기 화면의 메뉴를 넘깁니다."
+          }
+        }
+      }
+    },
+    "Turn on Bluetooth on your iPhone." : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPhone의 블루투스를 켜 주세요."
+          }
+        }
+      }
+    },
+    "Unmute" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "음소거 해제"
+          }
+        }
+      }
+    },
+    "Upper sideband, the voice mode used above about 10 MHz and by many utility stations. It also needs fine tuning." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상측파대. 약 10 MHz 위 아마추어 무선과 많은 업무용 방송에서 쓰는 음성 방식입니다. 이쪽도 미세 조정이 필요합니다."
+          }
+        }
+      }
+    },
+    "Volume" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "볼륨"
+          }
+        }
+      }
+    },
+    "VOLUME" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "볼륨"
+          }
+        }
+      }
+    },
+    "Volume %lld" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "볼륨 %lld"
+          }
+        }
+      }
+    },
+    "Wake up" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "깨우기"
+          }
+        }
+      }
+    },
+    "Weak" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "약"
+          }
+        }
+      }
+    },
+    "Wi-Fi TCP" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wi-Fi TCP"
+          }
+        }
+      }
+    },
+    "Wide medium-wave range including the long-wave edge (150–1800 kHz). AM radio and beacons." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "장파 가장자리까지 포함한 넓은 중파 구간(150–1800 kHz). AM 라디오와 무선 표지가 있습니다."
+          }
+        }
+      }
+    },
+    "Wideband FM, used by VHF broadcast stations. Clear music." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "광대역 FM. VHF 방송에 쓰이며 음악이 깨끗합니다."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "ATS Mini Remote";
+"NSBluetoothAlwaysUsageDescription" = "Used to find your ATS Mini receiver over Bluetooth and control it.";
+"NSLocalNetworkUsageDescription" = "Used to find and connect to your ATS Mini receiver over Wi-Fi.";
