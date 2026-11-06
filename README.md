@@ -2,6 +2,12 @@
 
 iOS remote controller for ATS Mini radio receivers.
 
+## Screenshots
+
+[![Three app screens: Radio with an animated signal display and four FM presets, Controls with band, mode, seek, tuning step and volume, and the enlarged Band Guide](docs/images/ats-mini-remote.gif)](docs/images/ats-mini-remote.gif)
+
+Captured in the iOS Simulator with a mock ATS Mini receiver over Wi-Fi TCP.
+
 **ATS Mini Remote**는 iPhone에서 ATS Mini 라디오 수신기를 찾아 연결하고, 주파수와 볼륨을 조절하는 iOS 앱입니다. `ats-mini-ios`는 이 앱의 소스 저장소입니다.
 
 **현재 상태** · 초기 기획 단계입니다. 아래 연결 흐름과 기능은 구현 계획입니다.
